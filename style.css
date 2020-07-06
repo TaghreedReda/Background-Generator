@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
     font:'allitha',small-caps;
     color: rgba(0,0, 0, 1);
@@ -10,4 +11,18 @@ body{
 
 h1{
     font:"allitha";
+=======
+body{
+    font:'allitha',small-caps;
+    color: rgba(0,0, 0, 1);
+    text-align: center;
+    text-transform: capitalize;
+    letter-spacing: .5em;
+    top:15%;
+    background: linear-gradient(to left,blue,yellow);
+}
+
+h1{
+    font:"allitha";
+>>>>>>> d3eb0f975b9726c1be841c998e67329d8b556150
 }
